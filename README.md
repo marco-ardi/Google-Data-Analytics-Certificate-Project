@@ -1,2 +1,4 @@
 # Google-Data-Analytics-Certificate-Project
-My Capstone project for Google Data Analytics Certificate
+My Capstone project for Google Data Analytics Certificate.
+
+See *Google Data Analytics Guidelines.pdf* for this project's guidelines and purpose,  *Bike Sharing Notebook.ipynb* for the analysis and *script.R* for the raw script.
